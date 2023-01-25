@@ -11,8 +11,12 @@ https://github.com/kson4/DApp---Smart-Contract-Escrow
 
 ## Compile
 Click on third icon on the side menu and compile
+Ensure that Escrow.sol is selected
 
-<img width="661" alt="image" src="https://user-images.githubusercontent.com/60405910/214678109-18e881fa-614a-415e-94a2-7981ba628a18.png">
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/60405910/214680816-8e8dc741-9fb4-45bc-8bc5-3c2324ead2a8.png">
+
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/60405910/214680659-a9684944-4678-4376-8746-1fa8056e6ec4.png">
+
 
 ## Deploy
 Choose three ETH addresses from the sample address provided into the argument and then choose the amount of ETH for the escrow
